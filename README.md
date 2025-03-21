@@ -1,3 +1,5 @@
+https://wandb.ai/nashiemgiles-western-governors-university/nyc_airbnb?nw=nwusernashiemgiles
+
 https://github.com/NashiemGiles/genre_classification
 
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
